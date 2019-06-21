@@ -22,6 +22,8 @@ Make sure to copy the original worlds as templates for __InstantReset__ so that 
 
 You can checkout this game on our own server, https://www.megacraftlp.de
 
+![Stairs and Portafort](img/stairs_portafort.png)
+
 ## Howto
 
 Install SpigotMc and the plugins listed above. We use Docker to run SpigotMc on our server, e.g. via Docker Compose:
